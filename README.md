@@ -57,10 +57,17 @@ Buzzer Alarm
 GSM Module for SMS alerts
 
 ## Author
+
 --Wakoli ian Wangila
+
 --Bsc Computer Science
+
 --Kirinyaga University
+
 --https://github.com/wakoli001
+
+
+
 
 IoT Cloud Dashboard
 
